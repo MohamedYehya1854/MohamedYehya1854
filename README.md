@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Mohamed Al-Tantawy Yehya — Network Security Engineer" width="100%">
+<img src="./Full Banner.svg" alt="Mohamed Al-Tantawy Yehya — Network Security Engineer" width="100%">
 
 <br>
 
