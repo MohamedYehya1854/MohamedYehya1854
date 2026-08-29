@@ -10,8 +10,8 @@
 
 <p>
   <a href="https://github.com/MohamedYehya1854">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="https://medium.com/">Medium</a>
+  <a href="https://linkedin.com/in/thenetknight">LinkedIn</a> •
+  <a href="mailto:mohamdt.yehya@outlook.com">Email</a>
 </p>
 
 </div>
@@ -20,18 +20,20 @@
 
 ## 🛡️ About Me
 
-I'm a **Network Security Engineer** focused on enterprise network security, firewall administration,
-SOC operations, threat detection, and defensive cybersecurity.
+I'm a **Network Security Engineer** focused on enterprise network security, infrastructure defense, and cybersecurity operations.
 
-- 🎓 **B.Sc. in Information Technology** — Faculty of Computers & Information Sciences, Mansoura University
-- 🇪🇬 Based in **Mansoura, Egypt**
-- 🔐 Specialized in **Network Security & Blue Team Operations**
-- 🌐 Hands-on with **Cisco, Fortinet & Palo Alto**
-- 🛡️ Experienced with **FortiGate, FortiManager, IPsec VPN, SSL VPN, VLANs, ACLs & Routing**
-- 🔎 Working with **Wazuh SIEM, T-Pot Honeypot, EDR & MITRE ATT&CK**
-- 🚩 Cybersecurity **CTF Player**
-- 🎓 **Network Security Instructor & Mentor**
-- 💻 Interested in **SOC, Threat Hunting, Detection Engineering & Incident Response**
+My technical focus combines **network infrastructure, firewall administration, Blue Team operations, SIEM-based threat detection, and practical security labs**.
+
+* 🎓 **B.Sc. in Information Technology** — Faculty of Computers & Information Sciences, Mansoura University
+* 🔐 Focused on **Network Security & Blue Team Operations**
+* 🌐 Hands-on experience with **Cisco, Fortinet & Palo Alto**
+* 🛡️ Practical experience with **FortiGate, FortiManager, IPsec VPN, SSL VPN, VLANs, ACLs, NAT & Routing**
+* 🔎 Experienced with **Wazuh SIEM, T-Pot HoneyNet, Wireshark & MITRE ATT&CK**
+* 🐝 Built **HoneyShield — AI-Powered SIEM-Integrated HoneyNet**
+* 🧪 Hands-on with **GNS3, EVE-NG, PNETLab & Cisco Packet Tracer**
+* 🎓 Network Security Mentor & Content Creator with **60+ live training sessions**
+* 👥 Mentored **100+ students** in networking and cybersecurity
+* 🚩 Active **CTF Player**
 
 ---
 
@@ -39,188 +41,332 @@ SOC operations, threat detection, and defensive cybersecurity.
 
 ```text
 NETWORK SECURITY
-├── Fortinet
+├── Firewall Security
 │   ├── FortiGate
 │   ├── FortiManager
-│   └── FortiAnalyzer
+│   ├── Palo Alto
+│   ├── Security Policies
+│   └── NGFW
 │
-├── Cisco
+├── Network Infrastructure
 │   ├── Routing & Switching
-│   ├── VLANs
-│   ├── ACLs
-│   └── Network Security
+│   ├── VLAN / Inter-VLAN Routing
+│   ├── ACL
+│   ├── NAT
+│   ├── DHCP
+│   └── Network Troubleshooting
 │
 ├── Security Operations
-│   ├── Wazuh SIEM
-│   ├── EDR
-│   ├── Log Analysis
+│   ├── SIEM
+│   ├── SOC Operations
+│   ├── Wazuh
 │   ├── Threat Detection
+│   ├── Threat Investigation
 │   └── Incident Analysis
 │
-└── Threat Intelligence
+└── Defensive Security
+    ├── Blue Team
     ├── MITRE ATT&CK
     ├── Honeypots
-    ├── Honeynets
-    └── Threat Hunting
+    ├── HoneyNets
+    ├── Threat Hunting
+    └── Network Monitoring
 ```
 
 ---
 
 ## 🧰 Technical Stack
 
-### 🌐 Networking & Security
+### 🌐 Network Security & Infrastructure
 
 `Cisco` `Fortinet` `FortiGate` `FortiManager` `FortiAnalyzer`
 `Palo Alto` `IPsec VPN` `SSL VPN` `VLAN` `ACL` `NAT`
-`Routing` `IDS/IPS` `NGFW`
+`Routing & Switching` `DHCP` `NGFW` `Security Policies`
 
 ### 🛡️ SOC & Blue Team
 
-`Wazuh SIEM` `T-Pot` `EDR` `MITRE ATT&CK`
-`Threat Detection` `Log Analysis` `Incident Response`
-`Threat Hunting` `Honeypot` `Honeynet`
+`Wazuh SIEM` `T-Pot HoneyNet` `MITRE ATT&CK`
+`Threat Detection` `Threat Investigation` `Log Analysis`
+`Incident Response` `Threat Hunting` `Blue Team Operations`
 
-### 💻 Development & Infrastructure
+### 🧪 Security & Network Tools
 
-`Python` `C#` `Linux` `Docker` `AWS`
-`Git` `GitHub` `VMware`
+`Wireshark` `Nmap` `Netcat` `Kali Linux`
+`GNS3` `EVE-NG` `PNETLab` `Cisco Packet Tracer`
 
-### 🧪 Security Labs
+### 💻 Infrastructure & Development
 
-`GNS3` `EVE-NG` `Cisco Packet Tracer`
-`TryHackMe` `Hack The Box` `CyberTalent` `HackViser`
-
----
-
-## 🚀 Featured Projects
-
-### 🐝 HoneyShield — AI-Powered SIEM-Integrated HoneyNet
-
-**Graduation Project | Excellent — 100%**
-
-A cybersecurity platform combining honeypot-based threat collection,
-SIEM monitoring, endpoint security, and AI-assisted intrusion analysis.
-
-**Architecture:**
-
-`ISP Router` → `FortiGate` → `T-Pot Sensors` → `Wazuh SIEM` → `EDR`
-
-**Key Technologies:**
-
-- FortiGate Firewalls
-- T-Pot Honeypot Sensors
-- Wazuh SIEM
-- EDR
-- Docker
-- MITRE ATT&CK
-- AI-SOC Assistant
+`Linux` `Docker` `VMware` `Python` `SQL` `C#`
+`Git` `GitHub`
 
 ---
 
-### 🔐 Secure Site-to-Site Enterprise Network Design
+# 🚀 Featured Projects
 
-**DEPI Fortinet Cyber Security Engineer | Excellent — 95%**
+## 🐝 HoneyShield — AI-Powered SIEM-Integrated HoneyNet
 
-Enterprise network architecture using FortiGate firewalls,
-secure IPsec site-to-site VPN connectivity, routing, NAT,
-and security policies.
+**Graduation Project | Mansoura University | Grade: Excellent — 100%**
 
----
+A defensive cybersecurity platform designed to combine **HoneyNet-based threat collection, SIEM monitoring, firewall security, and AI-assisted security analysis**.
 
-### 🏦 Bank Network Design & Implementation
+### Architecture
 
-**DEPI Cisco Cyber Security Engineer | Excellent — 98%**
+```text
+                Internet
+                    │
+                    ▼
+              ┌───────────┐
+              │ FortiGate │
+              └─────┬─────┘
+                    │
+                    ▼
+             ┌─────────────┐
+             │ T-Pot       │
+             │ HoneyNet    │
+             └──────┬──────┘
+                    │
+                    ▼
+             ┌─────────────┐
+             │ Wazuh SIEM  │
+             └──────┬──────┘
+                    │
+                    ▼
+             ┌─────────────┐
+             │ AI-SOC      │
+             │ Assistant   │
+             └─────────────┘
+```
 
-Enterprise banking network design featuring:
+### Key Technologies
 
-- VLAN segmentation
-- Inter-VLAN routing
-- ACLs
-- Routing
-- Secure network architecture
-- Cisco Packet Tracer
+`FortiGate` `T-Pot` `Wazuh` `Docker`
+`MITRE ATT&CK` `HoneyNet` `SIEM` `AI-SOC`
 
----
+### Key Responsibilities
 
-### 📡 Distributed File Transfer System
-
-A distributed file-transfer system developed as a networking project,
-with support for multiple communication protocols and a monitoring dashboard.
-
-**Technologies:**
-
-`C#` `TCP` `UDP` `HTTP` `FTP`
-
----
-
-### 📂 FTP Client / Server Application
-
-Windows Forms C# application implementing practical FTP client/server
-file-transfer functionality.
-
----
-
-## 🏆 Certifications & Training
-
-- 🛡️ **Fortinet NSE 4 — FortiOS Administrator 7.6**
-- 🔐 **Cisco CyberOps Associate**
-- 🌐 **CCNA v7**
-- 🏢 **DEPI — Cisco Cyber Security Engineer**
-- 🛡️ **DEPI — Fortinet Cyber Security Engineer**
-- 🔥 **NTI — Fortinet Cyber Security Engineer**
-- ☁️ **ITI — Cloud & Infrastructure Security**
-- 🧠 **IBM SkillsBuild — Cyber Security Program**
-- 🇪🇬 **Digital Egypt Pioneers Initiative — R3**
+* Deployed and configured **T-Pot HoneyNet sensors**
+* Integrated honeypot telemetry with **Wazuh SIEM**
+* Worked with **FortiGate** as part of the security architecture
+* Used **Docker** for honeypot infrastructure
+* Analyzed security events and mapped activities to **MITRE ATT&CK**
+* Worked on the **AI-SOC Assistant** for security analysis
 
 ---
 
-## 🎓 Teaching & Mentoring
+## 🤖 Network Intrusion Detection System Using Machine Learning
 
-As a **Network Security Instructor**, I've delivered **60+ remote sessions**
-covering:
+**Pattern Recognition Course Project | Grade: Excellent — 100%**
 
-- Cyber Security Essentials
-- CCNA
-- FortiGate Administration
-- FortiManager Administration
+A machine-learning-based IDS developed using the **NSL-KDD dataset** to detect anomalous and malicious network traffic.
 
-Hands-on labs are built using:
+### Key Technologies
 
-`Cisco Packet Tracer` `GNS3` `EVE-NG`
+`Python` `Scikit-learn` `NSL-KDD` `Machine Learning`
+`Clustering` `Classification` `Matplotlib` `Seaborn`
 
----
+### Highlights
 
-## 🚩 CTF & Cybersecurity
+* Applied **unsupervised clustering** for anomaly detection
+* Used machine-learning classification models to distinguish normal traffic from attacks
+* Evaluated models using:
 
-- 🏆 **20th / 120 teams** — Zinad IT × ITI Cyber Champions CTF
-- 🧩 **60+ rooms/labs** completed across TryHackMe, CyberTalent,
-  Hack The Box and HackViser
-- 🔍 Focused on network security, defensive security and practical
-  cybersecurity challenges
+  * Precision
+  * Recall
+  * F1-Score
+* Visualized feature distributions and classification results
 
 ---
 
-## 👨‍💻 Community & Leadership
+## 🔐 Secure Site-to-Site Enterprise Network Design
 
-### Microsoft Learn Student Ambassadors — Mansoura University
-**Cyber Security Circle Head Mentor**  
-`Aug 2024 — Aug 2025`
+**DEPI — Fortinet Cyber Security Engineer | Grade: Excellent — 95%**
 
-### CAT Reloaded
-**Network Security Head Mentor**  
+Designed a secure enterprise network using **FortiGate firewalls** with secure site-to-site connectivity.
+
+### Technologies
+
+`FortiGate` `IPsec VPN` `Routing` `NAT` `Security Policies`
+
+### Highlights
+
+* Enterprise network architecture
+* FortiGate firewall deployment
+* IPsec Site-to-Site VPN
+* Routing and NAT
+* Security policy configuration
+
+---
+
+## 🏦 Bank Network Design & Implementation
+
+**DEPI — Cisco Cyber Security Engineer | Grade: Excellent — 98%**
+
+Designed and implemented a secure multi-floor banking network using Cisco networking technologies.
+
+### Technologies
+
+`Cisco Packet Tracer` `VLAN` `ACL` `Inter-VLAN Routing`
+`Routing & Switching` `Network Security`
+
+### Highlights
+
+* Multi-floor enterprise network design
+* VLAN segmentation
+* Inter-VLAN routing
+* Access Control Lists
+* Redundant network infrastructure
+* Secure enterprise network architecture
+
+---
+
+# 🏆 Certifications
+
+* 🛡️ **Fortinet NSE 1 — Certified in Cybersecurity**
+* 🛡️ **Fortinet NSE 2 — Certified in Cybersecurity**
+* 🛡️ **Fortinet NSE 3 — Certified in Cybersecurity**
+* 🔥 **Fortinet NSE 4 — Certified in FortiOS**
+
+---
+
+# 🎓 Training & Professional Programs
+
+### 🇪🇬 Digital Egypt Youth Program — NTI
+
+**Multivendor Firewall Solutions Engineer**
+`Jan 2026 — Mar 2026`
+
+### 🛡️ Digital Egypt Pioneers Initiative — DEPI
+
+**Infrastructure Security Track — Fortinet Cyber Security Engineer**
+`Jun 2025 — Dec 2025`
+
+### ☁️ ITI
+
+**Cloud & Infrastructure Security — Summer Training Program**
+`Jul 2025 — Sep 2025`
+
+### 🔥 NTI
+
+**Fortinet Cyber Security Engineer — Summer Training Program**
+`Jul 2025 — Sep 2025`
+
+### 🌐 Digital Egypt Pioneers Initiative — DEPI
+
+**Infrastructure Security Track — Cisco Cyber Security Engineer**
+`Apr 2024 — Oct 2024`
+
+### 🛡️ ITI
+
+**Network & Infrastructure Security — Summer Training Program**
+`Jul 2024 — Sep 2024`
+
+### 🌐 NTI
+
+**Network & Infrastructure — CCNA v7**
+`Aug 2023 — Oct 2023`
+
+---
+
+# 📚 Additional Courses
+
+* CCNA Routing and Switching v7 (200-301)
+* CCNP Security Core — SCOR (350-701)
+* Cisco CyberOps Associate — CBROPS (200-201)
+* Palo Alto Networks Certified Cybersecurity Entry-Level Technician — PCCET
+* Fortinet FortiGate Administrator
+* Fortinet FortiManager Administrator
+* Fortinet FortiAnalyzer Administrator
+* Fortinet Enterprise Firewall Administrator
+* Fortinet Network Security Support Engineer
+* Linux RedHat Administrator
+* Microsoft Infrastructure — Windows Server & Active Directory Fundamentals
+* Kali Linux for Ethical Hackers
+
+---
+
+# 🎓 Teaching & Mentoring
+
+## Network Security Mentor & Content Creator
+
+`Aug 2024 — Aug 2026`
+
+* Delivered **60+ live online training sessions** covering networking and cybersecurity
+* Designed and delivered structured training curricula
+* Covered:
+
+  * Cyber Security Essentials
+  * CCNA
+  * FortiGate Administrator
+  * FortiManager Administrator
+* Built hands-on labs using:
+
+  * Cisco Packet Tracer
+  * GNS3
+  * EVE-NG
+* Mentored students through practical, lab-based networking and security scenarios
+
+---
+
+# 👥 Leadership & Community
+
+### 🛡️ Network & Blue Team Security Head Mentor — MSP Al-Azhar
+
+`Nov 2025 — Aug 2026`
+
+* Mentored **30+ students**
+* Delivered structured learning paths, technical sessions, and hands-on labs
+
+### 🔐 Cyber Security Vice Head Mentor — GDG Al-Azhar
+
+`Nov 2025 — Aug 2026`
+
+* Mentored **100+ students** in cybersecurity
+* Coached and prepared a **4-member core team** for future leadership responsibilities
+
+### 🌐 Network Security Head Mentor — CAT Reloaded
+
 `Apr 2025 — Oct 2025`
 
-### Google DSC / GDG Al-Azhar
-**Cyber Security Vice Head Mentor**  
-`Nov 2025 — Present`
-
-### MSP Al-Azhar
-**Blue Team Cyber Security Head Mentor**  
-`Nov 2025 — Present`
+* Mentored students in network security
+* Delivered practical labs and technical sessions
 
 ---
 
-## 📊 GitHub Stats
+# 🚩 CTF & Cybersecurity Achievements
+
+### 🏆 Zinad IT × ITI Cyber Champions CTF
+
+**20th / 120 teams**
+
+### 🧩 Practical Cybersecurity Labs
+
+Completed **60+ rooms and labs** across:
+
+`TryHackMe` `CyberTalent` `HackTheBox` `HackViser`
+
+### 🔎 Areas of Interest
+
+`Network Security` `Blue Team` `SOC`
+`Threat Detection` `Threat Hunting` `Defensive Security`
+
+---
+
+# 🎯 Currently
+
+```text
+[+] Advancing Network Security Engineering skills
+[+] Deepening Fortinet & Cisco expertise
+[+] Practicing Blue Team & SOC workflows
+[+] Improving Threat Detection & Investigation
+[+] Learning Threat Hunting & Detection Engineering
+[+] Building practical cybersecurity labs
+[+] Developing enterprise network security architectures
+[+] Sharing cybersecurity knowledge
+```
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -236,20 +382,7 @@ Hands-on labs are built using:
 
 ---
 
-## 🎯 Currently
-
-```text
-[+] Building Network Security expertise
-[+] Deepening Fortinet & Cisco skills
-[+] Practicing Blue Team / SOC workflows
-[+] Learning Threat Hunting & Detection Engineering
-[+] Building practical cybersecurity labs
-[+] Sharing cybersecurity knowledge
-```
-
----
-
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -257,12 +390,12 @@ Hands-on labs are built using:
 <img src="https://img.shields.io/badge/GitHub-MohamedYehya1854-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://linkedin.com/in/thenetknight">
+<img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Yehya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://medium.com/">
-<img src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium&logoColor=white">
+<a href="mailto:mohamdt.yehya@outlook.com">
+<img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>
 
 </div>
