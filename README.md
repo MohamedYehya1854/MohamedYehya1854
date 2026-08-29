@@ -4,447 +4,528 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Network+Security+Engineer;Blue+Team+%7C+SOC+%7C+Threat+Detection;Fortinet+%7C+Cisco+%7C+Palo+Alto;Building+%26+Defending+Secure+Networks" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Network+Security+Engineer;Blue+Team+%7C+SOC+%7C+Threat+Detection;Fortinet+%7C+Cisco+%7C+Palo+Alto;Secure+Networks.+Detect+Threats.+Build+Resilience." />
 
-<br>
+<br><br>
 
 <a href="https://github.com/MohamedYehya1854">
-<img src="https://img.shields.io/badge/GitHub-MohamedYehya1854-0D1117?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-MohamedYehya1854-0B0F14?style=for-the-badge&logo=github&logoColor=00E5FF">
 </a>
+&nbsp;
 <a href="https://linkedin.com/in/thenetknight">
-<img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Yehya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Yehya-0B0F14?style=for-the-badge&logo=linkedin&logoColor=7C4DFF">
 </a>
-<a href="mailto:mohamdt.yehya@outlook.com">
-<img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+&nbsp;
+<a href="https://medium.com/@mohamedaltantawy1854">
+<img src="https://img.shields.io/badge/Medium-Articles-0B0F14?style=for-the-badge&logo=medium&logoColor=FFFFFF">
+</a>
+&nbsp;
+<a href="mailto:mohamedt.yehya@outlook.com">
+<img src="https://img.shields.io/badge/Email-Contact-0B0F14?style=for-the-badge&logo=microsoft-outlook&logoColor=00E5FF">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MohamedYehya1854&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS">
+<img src="https://komarev.com/ghpvc/?username=MohamedYehya1854&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS">
 
 </div>
 
 ---
 
-# `whoami`
+# `01 — PROFILE`
 
-```bash
-┌──(mohamed㉿cybersec)-[~/profile]
-└─$ whoami
+> **Secure infrastructure. Detect adversaries. Build resilient systems.**
 
-Mohamed Al-Tantawy Yehya
-Network Security Engineer
-```
+I'm **Mohamed Al-Tantawy Yehya**, a **Network Security Engineer** focused on enterprise network defense, security infrastructure, and defensive cybersecurity operations.
 
-> **"Secure the Network. Detect the Threat. Defend the System."**
-
-I'm a **Network Security Engineer** focused on enterprise network security, infrastructure defense, and defensive cybersecurity operations.
-
-My work sits at the intersection of:
+My work combines **network engineering** with **security operations** — from designing and hardening network infrastructure to monitoring, detecting, and investigating security threats.
 
 ```text
 NETWORK SECURITY
-        │
-        ├── Firewalls & NGFW
-        ├── Routing & Switching
-        ├── VPN & Network Defense
-        │
-        ▼
+       │
+       ├── Firewalls & NGFW
+       ├── Routing & Switching
+       ├── VPN & Network Defense
+       │
+       ▼
 SECURITY OPERATIONS
-        │
-        ├── SIEM
-        ├── Threat Detection
-        ├── Threat Investigation
-        └── Blue Team
-        │
-        ▼
+       │
+       ├── SIEM
+       ├── Threat Detection
+       ├── Investigation
+       └── Blue Team
+       │
+       ▼
 THREAT INTELLIGENCE
-        │
-        ├── MITRE ATT&CK
-        ├── HoneyNets
-        └── Threat Hunting
+       │
+       ├── MITRE ATT&CK
+       ├── HoneyNets
+       └── Threat Hunting
 ```
 
-### `./profile --summary`
+### `PROFILE SNAPSHOT`
 
-* 🎓 **B.Sc. Information Technology** — Mansoura University
-* 🔐 Network Security & Blue Team focused
-* 🛡️ Fortinet NSE 1–4 Certified
-* 🌐 Hands-on with **Cisco, Fortinet & Palo Alto**
-* 🔥 FortiGate / FortiManager / FortiAnalyzer
-* 🔎 Wazuh SIEM & T-Pot HoneyNet
-* 🧪 GNS3 / EVE-NG / PNETLab / Packet Tracer
-* 👨‍🏫 **60+ live technical training sessions**
-* 👥 Mentored **100+ students**
-* 🚩 Active CTF Player
+|                       |                                                    |
+| --------------------- | -------------------------------------------------- |
+| 🎓 **Education**      | B.Sc. Information Technology — Mansoura University |
+| 🛡️ **Focus**         | Network Security • Blue Team • SOC                 |
+| 🔥 **Security**       | Fortinet • Cisco • Palo Alto                       |
+| 📡 **Infrastructure** | Routing • Switching • VPN • NGFW                   |
+| 🔎 **Detection**      | Wazuh • SIEM • Threat Analysis                     |
+| 🍯 **Deception**      | T-Pot • HoneyNets                                  |
+| 🧪 **Labs**           | GNS3 • EVE-NG • PNETLab                            |
+| 👨‍🏫 **Mentoring**   | 60+ Technical Sessions • 100+ Students             |
+| 🚩 **CTF**            | Active CTF Player                                  |
 
 ---
 
-# `./security_stack`
+# `02 — SECURITY EXPERTISE`
 
 <div align="center">
 
-### 🔥 NETWORK SECURITY
+### `NETWORK SECURITY`
 
-<img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">
-<img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">
-<img src="https://img.shields.io/badge/FortiManager-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
-<img src="https://img.shields.io/badge/Palo_Alto-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white">
+<img src="https://img.shields.io/badge/Fortinet-0B0F14?style=for-the-badge&logo=fortinet&logoColor=FF1744">
+<img src="https://img.shields.io/badge/FortiGate-0B0F14?style=for-the-badge&logo=fortinet&logoColor=FF1744">
+<img src="https://img.shields.io/badge/FortiManager-0B0F14?style=for-the-badge&logo=fortinet&logoColor=FF1744">
+<img src="https://img.shields.io/badge/Cisco-0B0F14?style=for-the-badge&logo=cisco&logoColor=00E5FF">
+<img src="https://img.shields.io/badge/Palo%20Alto-0B0F14?style=for-the-badge&logo=paloaltonetworks&logoColor=7C4DFF">
 
-### 🛡️ BLUE TEAM / SOC
+### `BLUE TEAM & SOC`
 
-<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge">
-<img src="https://img.shields.io/badge/T--Pot-111827?style=for-the-badge">
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF4F00?style=for-the-badge">
-<img src="https://img.shields.io/badge/SIEM-0D1117?style=for-the-badge">
-<img src="https://img.shields.io/badge/Threat_Detection-0D1117?style=for-the-badge">
+<img src="https://img.shields.io/badge/Wazuh-0B0F14?style=for-the-badge&logoColor=00E5FF">
+<img src="https://img.shields.io/badge/T--Pot-0B0F14?style=for-the-badge&logoColor=00E5FF">
+<img src="https://img.shields.io/badge/SIEM-0B0F14?style=for-the-badge&logoColor=7C4DFF">
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-0B0F14?style=for-the-badge&logoColor=FF00FF">
+<img src="https://img.shields.io/badge/Threat%20Detection-0B0F14?style=for-the-badge&logoColor=00E5FF">
 
-### 🌐 NETWORKING
+### `NETWORKING & LABS`
 
-<img src="https://img.shields.io/badge/Routing_%26_Switching-0D1117?style=for-the-badge">
-<img src="https://img.shields.io/badge/VLAN-0D1117?style=for-the-badge">
-<img src="https://img.shields.io/badge/ACL-0D1117?style=for-the-badge">
-<img src="https://img.shields.io/badge/NAT-0D1117?style=for-the-badge">
-<img src="https://img.shields.io/badge/IPsec_VPN-0D1117?style=for-the-badge">
-<img src="https://img.shields.io/badge/SSL_VPN-0D1117?style=for-the-badge">
-
-### 🧪 SECURITY LABS
-
-<img src="https://img.shields.io/badge/GNS3-1F2937?style=for-the-badge">
-<img src="https://img.shields.io/badge/EVE--NG-1F2937?style=for-the-badge">
-<img src="https://img.shields.io/badge/PNETLab-1F2937?style=for-the-badge">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge">
+<img src="https://img.shields.io/badge/GNS3-0B0F14?style=for-the-badge&logo=gns3&logoColor=00E5FF">
+<img src="https://img.shields.io/badge/EVE--NG-0B0F14?style=for-the-badge&logoColor=00E5FF">
+<img src="https://img.shields.io/badge/PNETLab-0B0F14?style=for-the-badge&logoColor=7C4DFF">
+<img src="https://img.shields.io/badge/Wireshark-0B0F14?style=for-the-badge&logo=wireshark&logoColor=00E5FF">
+<img src="https://img.shields.io/badge/Nmap-0B0F14?style=for-the-badge&logoColor=00E5FF">
 
 </div>
 
 ---
 
-# `./threat_detection`
+# `03 — DEFENSIVE ARCHITECTURE`
+
+> **Visibility is the first layer of defense.**
 
 ```text
-                    ┌─────────────────────┐
-                    │       INTERNET      │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      FORTIGATE      │
-                    │       NGFW          │
-                    └──────────┬──────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │      HONEYNET       │
-                    │       T-POT         │
-                    └──────────┬──────────┘
-                               │
-                         TELEMETRY
-                               │
-                    ┌──────────▼──────────┐
-                    │       WAZUH         │
-                    │        SIEM         │
-                    └──────────┬──────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │   THREAT ANALYSIS   │
-                    │   MITRE ATT&CK      │
-                    └─────────────────────┘
+                           INTERNET
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │     FORTIGATE     │
+                    │        NGFW       │
+                    │ IPS • AV • APP    │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │      T-POT        │
+                    │     HONEYNET      │
+                    │ DECEPTION LAYER   │
+                    └─────────┬─────────┘
+                              │
+                           TELEMETRY
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │       WAZUH       │
+                    │        SIEM       │
+                    │ DETECTION • LOGS  │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │   THREAT ANALYSIS │
+                    │   MITRE ATT&CK    │
+                    │ HUNT • INVESTIGATE│
+                    └───────────────────┘
 ```
+
+### `DEFENSE STACK`
+
+`Prevent → Monitor → Detect → Investigate → Respond → Improve`
 
 ---
 
-# `./featured_projects`
+# `04 — FEATURED PROJECT`
 
-## 🐝 HoneyShield
+<div align="center">
 
-### `AI-Powered SIEM-Integrated HoneyNet`
+## 🐝 `HoneyShield`
+
+### **SIEM-INTEGRATED HONEYNET FOR THREAT DETECTION & ANALYSIS**
+
+<a href="https://github.com/MohamedYehya1854/HoneyShield">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=0B0F14">
+</a>
+
+</div>
 
 **Graduation Project — Mansoura University**
 **Grade: Excellent — 100%**
 
-> A defensive cybersecurity platform combining HoneyNet-based threat collection, SIEM monitoring, firewall security, and AI-assisted security analysis.
+HoneyShield is a defensive cybersecurity platform built around **deception-driven threat detection**, combining HoneyNet telemetry, centralized SIEM monitoring, network security controls, and intelligent security analysis.
 
 ```text
-FortiGate
-    │
-    ▼
-T-Pot HoneyNet
-    │
-    ▼
-Wazuh SIEM
-    │
-    ▼
-AI-SOC Assistant
-    │
-    ▼
-MITRE ATT&CK Analysis
+                  ┌───────────────┐
+                  │   FORTIGATE   │
+                  │      NGFW     │
+                  └───────┬───────┘
+                          │
+                          ▼
+                  ┌───────────────┐
+                  │     T-POT     │
+                  │    HONEYNET   │
+                  └───────┬───────┘
+                          │
+                       TELEMETRY
+                          │
+                          ▼
+                  ┌───────────────┐
+                  │     WAZUH     │
+                  │      SIEM     │
+                  └───────┬───────┘
+                          │
+                          ▼
+                  ┌───────────────┐
+                  │  AI-ASSISTED  │
+                  │ THREAT ANALYSIS│
+                  └───────┬───────┘
+                          │
+                          ▼
+                  ┌───────────────┐
+                  │ MITRE ATT&CK  │
+                  └───────────────┘
 ```
 
-### `Security Capabilities`
+### `CORE CAPABILITIES`
 
-```text
-[+] HoneyNet Deployment
-[+] Threat Collection
-[+] SIEM Monitoring
-[+] Security Event Analysis
-[+] MITRE ATT&CK Mapping
-[+] AI-Assisted Incident Analysis
-[+] Docker-based Infrastructure
-```
+* **HoneyNet Deployment & Deception**
+* **Threat Collection & Telemetry**
+* **Centralized SIEM Monitoring**
+* **Security Event Analysis**
+* **MITRE ATT&CK Mapping**
+* **AI-Assisted Incident Analysis**
+* **Docker-Based Infrastructure**
+* **Threat Intelligence Generation**
 
 ---
 
-## 🤖 ML-Based Network Intrusion Detection System
+# `05 — SELECTED BUILDS`
+
+## `01 / ML-Based Network Intrusion Detection System`
 
 **Pattern Recognition Course Project**
 **Grade: Excellent — 100%**
 
-Built a machine-learning-based IDS using the **NSL-KDD dataset**.
+Machine-learning-based IDS developed using the **NSL-KDD dataset** for network attack classification and detection.
+
+<a href="https://github.com/MohamedYehya1854/Network-Intrusion-Detection-System-Using-ML-v1.0">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=0B0F14">
+</a>
 
 ```text
-NSL-KDD Dataset
-       │
-       ▼
-Feature Processing
-       │
-       ├──────────────┐
-       ▼              ▼
- Clustering      Classification
-       │              │
-       └──────┬───────┘
-              ▼
-       Attack Detection
-              │
-              ▼
-      Precision / Recall
-           / F1-Score
+NSL-KDD
+   │
+   ▼
+FEATURE PROCESSING
+   │
+   ├───────────────┐
+   ▼               ▼
+CLUSTERING    CLASSIFICATION
+   │               │
+   └───────┬───────┘
+           ▼
+    ATTACK DETECTION
+           │
+           ▼
+   MODEL EVALUATION
+ Precision • Recall • F1
 ```
 
-**Stack:** `Python` `Scikit-learn` `NSL-KDD` `Machine Learning`
+`Python` `Scikit-learn` `NSL-KDD` `Machine Learning`
 
 ---
 
-## 🔐 Secure Enterprise Network
+## `02 / Secure Enterprise Network`
 
 **DEPI — Fortinet Cyber Security Engineer**
 **Grade: Excellent — 95%**
 
+Designed and implemented a secure enterprise network architecture using FortiGate, IPsec VPN, routing, NAT, and security policies.
+
+<a href="https://github.com/MohamedYehya1854/Secure-Site-to-Site-Enterprise-Network-Design">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C4DFF?style=for-the-badge&logo=github&logoColor=FFFFFF">
+</a>
+
 ```text
-Enterprise Sites
-      │
-      ▼
- ┌──────────┐
- │ FortiGate│
- └────┬─────┘
-      │
- ┌────▼─────┐
- │ IPsec VPN│
- └────┬─────┘
-      │
- Routing / NAT / Security Policies
+ENTERPRISE SITES
+       │
+       ▼
+   FORTIGATE
+       │
+       ▼
+    IPsec VPN
+       │
+       ▼
+ROUTING • NAT • SECURITY POLICIES
 ```
 
 ---
 
-## 🏦 Secure Bank Network
+## `03 / Secure Bank Network`
 
 **DEPI — Cisco Cyber Security Engineer**
 **Grade: Excellent — 98%**
 
+Designed a segmented banking network using VLANs, ACLs, and Inter-VLAN Routing.
+
+<a href="https://github.com/MohamedYehya1854/Bank-Network-Design-and-Implementation-Using-Cisco-Packet-Tracer">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=0B0F14">
+</a>
+
 ```text
-        CORE
-         │
-   ┌─────┼─────┐
-   │     │     │
- VLAN10 VLAN20 VLAN30
-   │     │     │
-  ACL   ACL   ACL
-   └─────┼─────┘
-         │
-   Inter-VLAN Routing
+                       CORE
+                        │
+                ┌───────┼───────┐
+                │       │       │
+             VLAN10   VLAN20   VLAN30
+                │       │       │
+               ACL     ACL     ACL
+                └───────┼───────┘
+                        │
+                 INTER-VLAN ROUTING
 ```
 
 ---
 
-# `./certifications`
+# `06 — CERTIFICATIONS`
+
+<div align="center">
 
 ```text
-╔══════════════════════════════════════════╗
-║          FORTINET CERTIFICATIONS         ║
-╠══════════════════════════════════════════╣
-║ NSE 1  → Certified in Cybersecurity      ║
-║ NSE 2  → Certified in Cybersecurity      ║
-║ NSE 3  → Certified in Cybersecurity      ║
-║ NSE 4  → Certified in FortiOS            ║
-╚══════════════════════════════════════════╝
+╔═══════════════════════════════════════════════╗
+║              FORTINET CREDENTIALS             ║
+╠═══════════════════════════════════════════════╣
+║                                               ║
+║   NSE 1  │  Certified in Cybersecurity        ║
+║   NSE 2  │  Certified in Cybersecurity        ║
+║   NSE 3  │  Certified in Cybersecurity        ║
+║   NSE 4  │  FortiOS Administrator             ║
+║                                               ║
+╚═══════════════════════════════════════════════╝
 ```
 
-### Additional Training
+</div>
 
-* 🇪🇬 **NTI — Multivendor Firewall Solutions Engineer**
-* 🛡️ **DEPI — Fortinet Cyber Security Engineer**
-* ☁️ **ITI — Cloud & Infrastructure Security**
-* 🔥 **NTI — Fortinet Cyber Security Engineer**
-* 🌐 **DEPI — Cisco Cyber Security Engineer**
-* 🛡️ **ITI — Network & Infrastructure Security**
-* 🌐 **NTI — CCNA v7**
+### `ADDITIONAL TRAINING`
+
+* **NTI** — Multivendor Firewall Solutions Engineer
+* **DEPI** — Fortinet Cyber Security Engineer
+* **ITI** — Cloud & Infrastructure Security
+* **NTI** — Fortinet Cyber Security Engineer
+* **DEPI** — Cisco Cyber Security Engineer
+* **ITI** — Network & Infrastructure Security
+* **NTI** — CCNA v7
 
 ---
 
-# `./security_knowledge`
+# `07 — SECURITY DOMAINS`
 
 ```text
-NETWORK SECURITY
-├── Firewall Administration
-├── FortiGate NGFW
-├── Palo Alto NGFW
-├── IPsec / SSL VPN
-├── Security Policies
-└── Network Defense
+┌─────────────────────────────────────────────────────┐
+│ NETWORK SECURITY                                    │
+├─────────────────────────────────────────────────────┤
+│ Firewall Administration  •  FortiGate               │
+│ Palo Alto NGFW           •  Security Policies       │
+│ IPsec / SSL VPN          •  Network Defense         │
+└─────────────────────────────────────────────────────┘
 
-NETWORKING
-├── Routing & Switching
-├── VLAN / Inter-VLAN
-├── ACL
-├── NAT
-├── DHCP
-└── Troubleshooting
+┌─────────────────────────────────────────────────────┐
+│ NETWORK ENGINEERING                                 │
+├─────────────────────────────────────────────────────┤
+│ Routing & Switching      •  VLAN / Inter-VLAN       │
+│ ACL / NAT                •  DHCP                    │
+│ Network Troubleshooting  •  Infrastructure Design  │
+└─────────────────────────────────────────────────────┘
 
-BLUE TEAM
-├── SIEM
-├── SOC Operations
-├── Threat Detection
-├── Threat Investigation
-├── Incident Analysis
-└── Threat Hunting
+┌─────────────────────────────────────────────────────┐
+│ BLUE TEAM / SOC                                      │
+├─────────────────────────────────────────────────────┤
+│ SIEM                     •  Threat Detection        │
+│ Threat Investigation     •  Incident Analysis       │
+│ Security Monitoring      •  Threat Hunting           │
+└─────────────────────────────────────────────────────┘
 
-THREAT INTELLIGENCE
-├── MITRE ATT&CK
-├── HoneyPots
-├── HoneyNets
-└── Security Monitoring
+┌─────────────────────────────────────────────────────┐
+│ THREAT INTELLIGENCE                                 │
+├─────────────────────────────────────────────────────┤
+│ MITRE ATT&CK             •  Honeypots / HoneyNets   │
+│ Threat Analysis          •  Security Telemetry      │
+└─────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `./mentor_mode`
+# `08 — MENTORSHIP`
+
+> **Technical knowledge becomes more valuable when it is shared.**
 
 ```text
-$ cat experience.log
-
-[2024]  Network Security Mentor & Content Creator
-[2024+] 60+ Technical Training Sessions
-[2025+] 100+ Students Mentored
-[2025]  Network Security Head Mentor
-[2025+] Cyber Security Vice Head Mentor
-[2025+] Blue Team Security Head Mentor
+2024+   Network Security Mentor & Content Creator
+2024+   60+ Technical Training Sessions
+2025+   100+ Students Mentored
+2025    Network Security Head Mentor
+2025+   Cyber Security Vice Head Mentor
+2025+   Blue Team Security Head Mentor
 ```
 
-### Topics Delivered
+### `TRAINING AREAS`
 
 `Cyber Security Essentials`
 `CCNA`
 `FortiGate Administration`
 `FortiManager Administration`
+`Network Security`
+`Blue Team Fundamentals`
 
-### Lab Environment
+### `LAB ENVIRONMENT`
 
-`Cisco Packet Tracer` `GNS3` `EVE-NG`
+`Cisco Packet Tracer` • `GNS3` • `EVE-NG`
 
----
-
-# `./ctf`
-
-```text
-┌────────────────────────────────────────────┐
-│              CYBER CHALLENGES              │
-├────────────────────────────────────────────┤
-│ 🏆 Zinad IT × ITI Cyber Champions CTF      │
-│                                            │
-│              RANK: 20 / 120                │
-│                                            │
-│ 🧩 60+ CTF Rooms & Security Labs           │
-└────────────────────────────────────────────┘
-```
-
-Platforms:
-
-`TryHackMe` • `CyberTalent` • `HackTheBox` • `HackViser`
+> **Learn it. Build it. Break it. Defend it.**
 
 ---
 
-# `./currently`
-
-```bash
-┌──(mohamed㉿cybersec)-[~/currently]
-└─$ cat objectives.txt
-
-[✓] Network Security
-[✓] Fortinet
-[✓] Cisco
-[✓] Blue Team Fundamentals
-[✓] SIEM / Wazuh
-[✓] HoneyNet Deployment
-
-[~] Threat Detection & Investigation
-[~] Threat Hunting
-[~] Detection Engineering
-[~] Enterprise Security Architecture
-
-[>] Keep Learning
-[>] Keep Building
-[>] Keep Defending
-```
-
----
-
-# `./github_stats`
+# `09 — CTF / SECURITY RESEARCH`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedYehya1854&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170">
+```text
+╭─────────────────────────────────────────────╮
+│              CYBER CHALLENGES               │
+│                                             │
+│       ZINAD IT × ITI CYBER CHAMPIONS       │
+│                                             │
+│                 RANK 20 / 120               │
+│                                             │
+│           60+ CTF ROOMS & LABS              │
+╰─────────────────────────────────────────────╯
+```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYehya1854&layout=compact&theme=github_dark&hide_border=true" height="170">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=MohamedYehya1854&theme=github-dark-blue&hide_border=true" width="70%">
+`TryHackMe` • `CyberTalent` • `HackTheBox` • `HackViser`
 
 </div>
 
 ---
 
-# `./contact`
+# `10 — CURRENT FOCUS`
 
 <div align="center">
 
-### `Want to talk CyberSecurity?`
+```text
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│             BUILDING THE NEXT LAYER              │
+│                                                  │
+│   Threat Detection       ████████████████████    │
+│   Threat Hunting         ███████████████████░    │
+│   Detection Engineering  ██████████████████░░    │
+│   Security Architecture  █████████████████░░░    │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
+
+</div>
+
+**Currently sharpening my capabilities in:**
+
+`Threat Detection`
+`Threat Investigation`
+`Threat Hunting`
+`Detection Engineering`
+`Enterprise Security Architecture`
+
+> **Keep learning. Keep building. Keep defending.**
+
+---
+
+# `11 — GITHUB ANALYTICS`
+
+<div align="center">
+
+### `CONTRIBUTION ACTIVITY`
+
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedYehya1854&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=00E5FF&icon_color=7C4DFF&text_color=C9D1D9&bg_color=0B0F14" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYehya1854&layout=compact&theme=github_dark&hide_border=true&title_color=00E5FF&text_color=C9D1D9&bg_color=0B0F14" height="180">
+
+<br><br>
+
+### `STREAK`
+
+<img src="https://streak-stats.demolab.com?user=MohamedYehya1854&theme=github-dark&hide_border=true&background=0B0F14&ring=00E5FF&fire=7C4DFF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" width="70%">
+
+<br><br>
+
+### `CONTRIBUTION GRAPH`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedYehya1854&bg_color=0B0F14&color=00E5FF&line=7C4DFF&point=00FF9C&area=true&hide_border=true" width="95%">
+
+</div>
+
+---
+
+# `12 — CONNECT`
+
+<div align="center">
+
+### **Let's build something secure.**
+
+```text
+NETWORKS  ×  SECURITY  ×  DETECTION  ×  DEFENSE
+```
 
 <a href="https://github.com/MohamedYehya1854">
-<img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-FOLLOW-0B0F14?style=for-the-badge&logo=github&logoColor=00E5FF">
 </a>
-
+&nbsp;
 <a href="https://linkedin.com/in/thenetknight">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0B0F14?style=for-the-badge&logo=linkedin&logoColor=7C4DFF">
 </a>
-
-<a href="mailto:mohamdt.yehya@outlook.com">
-<img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=microsoft-outlook">
+&nbsp;
+<a href="https://medium.com/@mohamedaltantawy1854">
+<img src="https://img.shields.io/badge/Medium-READ%20MY%20ARTICLES-0B0F14?style=for-the-badge&logo=medium&logoColor=FFFFFF">
+</a>
+&nbsp;
+<a href="mailto:mohamedt.yehya@outlook.com">
+<img src="https://img.shields.io/badge/Email-CONTACT-0B0F14?style=for-the-badge&logo=microsoft-outlook&logoColor=00E5FF">
 </a>
 
 <br><br>
 
 ```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║   SECURE THE NETWORK.                        ║
-║   DETECT THE THREAT.                         ║
-║   DEFEND THE SYSTEM.                         ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+        SECURE THE NETWORK.
+        DETECT THE THREAT.
+        BUILD THE DEFENSE.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-⭐ **Star my repositories if you find them useful.**
+⭐ **If you find my work useful, consider starring a repository.**
+
+<br>
+
+`// Mohamed Al-Tantawy Yehya`
 
 </div>
