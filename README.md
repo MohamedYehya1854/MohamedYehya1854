@@ -304,8 +304,6 @@ Threat Hunting
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedYehya1854&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=00E5FF&icon_color=7C4DFF&text_color=C9D1D9&bg_color=0B0F14" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYehya1854&layout=compact&theme=github_dark&hide_border=true&title_color=00E5FF&text_color=C9D1D9&bg_color=0B0F14" height="165" />
 
 <br><br>
 
@@ -313,7 +311,6 @@ Threat Hunting
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedYehya1854&bg_color=0B0F14&color=00E5FF&line=7C4DFF&point=00FF9C&area=true&hide_border=true" width="95%" />
 
 </div>
 
